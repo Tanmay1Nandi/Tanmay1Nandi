@@ -12,7 +12,7 @@
 
 - 🎓 **Bachelor Of Science Student in Mathematics and Computing @ NIT-Agartala**  
 - 💡 Started Exploring **AI/ML**   
-- 🎯 Passionate about **Fullstack Development, System Design, Backend Engineering, and Embedded Systems**  
+- 🎯 Passionate about **Fullstack Development, System Design and Backend Engineerings**  
 
 ---
 
