@@ -36,7 +36,6 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logoColor=white" />
-      <img src="https://img.shields.io/badge/Rive-00AEEF?style=for-the-badge&logo=rive&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -77,9 +76,9 @@
     <td><strong>🛠 Others</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+ 
     </td>
   </tr>
 </table>
