@@ -1,6 +1,6 @@
 <!-- Profile README for Aryan Sharma -->
 
-<h1 align="center">Hi, I’m Aryan Sharma 👋</h1>
+<h1 align="center">Hi, I’m Tanmay Nandi 👋</h1>
 
 <p align="center">
   <b style="color:#8A2BE2">Turning ideas into code</b> and <b style="color:#00CED1">problems into solutions</b>.
@@ -10,8 +10,8 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech CSE Student @ IIIT Bangalore**  
-- 💡 Exploring **AI/ML**   
+- 🎓 **Bachelor Of Science Student in Mathematics and Computing @ NIT-Agartala**  
+- 💡 Started Exploring **AI/ML**   
 - 🎯 Passionate about **Fullstack Development, System Design, Backend Engineering, and Embedded Systems**  
 
 ---
@@ -89,14 +89,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/aryansharma0305" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=aryansharma0305&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=000000,353841,272A36&title_color=00CED1&icon_color=8A2BE2" height="150"/>
+  <a href="https://github.com/tanmay1nandi" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=tanmay1nandi&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=000000,353841,272A36&title_color=00CED1&icon_color=8A2BE2" height="150"/>
   </a>
-  <a href="https://github.com/aryansharma0305" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryansharma0305&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150"/>
+  <a href="https://github.com/tanmay1nandi" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay1nandi&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150"/>
   </a>
-  <a href="https://github.com/aryansharma0305" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryansharma0305&theme=dark&hide_border=true&background=000000&stroke=8A2BE2&ring=00CED1" height="150"/>
+  <a href="https://github.com/tanmay1nandi" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay1nandi&theme=dark&hide_border=true&background=000000&stroke=8A2BE2&ring=00CED1" height="150"/>
   </a>
 </p>
 
